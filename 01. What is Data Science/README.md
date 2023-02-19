@@ -14,11 +14,3 @@ Data science is the field of gaining insights from data, often with a focus on u
 
 ## 🔑 Key Skills Learned 
 - An overall understanding of what data science is, and why it is changing the way we do business and research.
-
-## 🏆 Certificates 
-To verify the certificates, click the images to follow the links.
-
-<p align="middle">
-  <a href="https://coursera.org/share/45c96d6fe54889795387adde5c128301"><img src="" height="430"></a>
-</p>
-https://coursera.org/share/45c96d6fe54889795387adde5c128301
